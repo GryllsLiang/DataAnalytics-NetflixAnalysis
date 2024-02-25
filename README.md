@@ -1,0 +1,1 @@
+This project I conduct some analysis on the Netflix data, for details, please refer to the Description.pdf and Analysis Report.pdf
